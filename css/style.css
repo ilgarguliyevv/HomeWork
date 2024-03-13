@@ -1,0 +1,319 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first-box{     
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+
+}
+.item1{
+    width: 460px;
+    height: 450px;
+    border: 2px solid blue;
+    margin-left: 5px;
+}
+.image1{
+    width: 455px;
+    height: 200px;
+}
+
+.head1{
+    font-size: 28px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.text1{
+    font-size: 20px;
+    color: blue;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.text2{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.text3{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.item2{
+    width: 460px;
+    height: 450px;
+    border: 2px solid blue;
+}
+
+.image2{
+    width: 455px;
+    height: 200px;
+}
+
+.head2{
+    font-size: 28px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.text4{
+    font-size: 20px;
+    color: blue;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.text5{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.text6{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.item3{
+    width: 460px;
+    height: 450px;
+    border: 2px solid blue;
+}
+
+.image3{
+    width: 455px;
+    height: 200px;
+}
+
+.head3{
+    font-size: 28px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.text7{
+    font-size: 20px;
+    color: blue;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.text8{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.text9{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.item4{
+    width: 460px;
+    height: 450px;
+    border: 2px solid blue;
+    margin-right: 7px;
+}
+
+.image4{
+    width: 400px;
+    height: 200px;
+}
+
+.head4{
+    font-size: 28px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.name1{
+    font-size: 20px;
+    color: blue;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.name2{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.name3{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.second-box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.item5{
+    width: 460px;
+    height: 450px;
+    border: 2px solid blue;
+    margin-left: 5px;
+}
+
+.image5{
+    width: 455px;
+    height: 200px;
+}
+
+.head5{
+    font-size: 28px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.not1{
+    font-size: 20px;
+    color: blue;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.not2{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.not3{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+
+
+.item6{
+    width: 460px;
+    height: 450px;
+    border: 2px solid blue;
+}
+
+.image6{
+    width: 455px;
+    height: 200px;
+}
+
+.head6{
+    font-size: 28px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.not4{
+    font-size: 20px;
+    color: blue;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.not5{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.not6{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.item7{
+    width: 460px;
+    height: 450px;
+    border: 2px solid blue;
+}
+
+.image7{
+    width: 455px;
+    height: 200px;
+}
+
+.head7{
+    font-size: 28px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.not7{
+    font-size: 20px;
+    color: blue;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.not8{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.not9{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+
+.item8{
+    width: 460px;
+    height: 450px;
+    border: 2px solid blue;
+    margin-right: 7px;
+}
+
+.image8{
+    width: 455px;
+    height: 200px;
+}
+
+.head8{
+    font-size: 28px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+.note1{
+    font-size: 20px;
+    color: blue;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.note2{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.note3{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
